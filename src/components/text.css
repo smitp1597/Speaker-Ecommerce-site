@@ -1,0 +1,50 @@
+.pr-button {
+    top: 300px;
+  left: 500px;
+  position: absolute;
+  width: 284px;
+  height: 79px;
+  background: transparent linear-gradient(90deg, #1FE1E9 0%, #5E33D1 34%, #D34848 65%, #FFB33F 100%) 0% 0% no-repeat padding-box;
+  border-radius: 79px;
+  opacity: 1;
+  text-decoration: none;
+  }
+  
+  .pr-text {
+  margin-top: 23px;
+  margin-left: 65px;
+  position: absolute;
+  width: 156px;
+  height: 27px;
+  text-align: left;
+  font: normal normal bold 20px/28px Helvetica Neue;
+  letter-spacing: 2.3px;
+  color:white;
+  opacity: 1;
+  }
+
+  .header-text1 {
+    top: 42px;
+left: 262px;
+position: absolute;
+width: 1396px;
+height: 77px;
+text-align: left;
+font: normal normal bold 35px/79px Helvetica Neue;
+letter-spacing: 6.5px;
+color: #FFFFFF;
+opacity: 1;
+  }
+  
+  .text1 {
+    top: 150px;
+    position: absolute;
+  left: 370px;
+  width: 620px;
+  height: 81px;
+  text-align: center;
+  font: normal normal normal 23px/30px Helvetica Neue;
+  letter-spacing: 3.2px;
+  color: #FFFFFF;
+  opacity: 1;
+  }

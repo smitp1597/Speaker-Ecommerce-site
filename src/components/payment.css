@@ -1,0 +1,290 @@
+.pymnt {
+    top: 108px;
+left: 183px;
+position: absolute;
+width: 398px;
+height: 88px;
+text-align: left;
+font: normal normal bold 50px/50px Helvetica Neue;
+letter-spacing: 7.4px;
+color: #000000;
+opacity: 1;
+}
+
+.BI {
+    top: 194px;
+left: 183px;
+position: absolute;
+width: 807px;
+height: 53px;
+text-align: left;
+font: normal normal normal 45px/71px Helvetica Neue;
+letter-spacing: 4.5px;
+color: #000000;
+opacity: 1;
+}
+
+.FN {
+    top: 320px;
+left: 254px;
+position: absolute;
+width: 140px;
+height: 26px;
+text-align: left;
+font: normal normal bold 20px/34px Helvetica Neue;
+letter-spacing: 2.2px;
+color: #000000;
+opacity: 1;
+}
+
+.FN-text {
+    top: 380px;
+left: 254px;
+position: absolute;
+width: 350px;
+height: 50px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 2px solid #000000;
+opacity: 1;
+}
+
+.BA {
+    top: 450px;
+left: 254px;
+position: absolute;
+width: 235px;
+height: 26px;
+text-align: left;
+font: normal normal bold 22px/34px Helvetica Neue;
+letter-spacing: 2.2px;
+color: #000000;
+opacity: 1;
+}
+
+.BA-text {
+    top: 510px;
+left: 254px;
+position: absolute;
+width: 350px;
+height: 50px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 2px solid #000000;
+opacity: 1;
+}
+
+.city {
+    top: 580px;
+left: 254px;
+position: absolute;
+width: 46px;
+height: 26px;
+text-align: left;
+font: normal normal bold 22px/34px Helvetica Neue;
+letter-spacing: 2.2px;
+color: #000000;
+opacity: 1;
+}
+
+.cityText {
+    top: 640px;
+left: 254px;
+position: absolute;
+width: 150px;
+height: 50px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 2px solid #000000;
+opacity: 1;
+}
+
+.PC {
+    top: 580px;
+left: 450px;
+position: absolute;
+width: 200px;
+height: 26px;
+text-align: left;
+font: normal normal bold 22px/34px Helvetica Neue;
+letter-spacing: 2.2px;
+color: #000000;
+opacity: 1;
+}
+
+.postText {
+    top: 640px;
+left: 450px;
+position: absolute;
+width: 150px;
+height: 50px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 2px solid #000000;
+opacity: 1;
+}
+
+.cntry {
+    top: 710px;
+left: 254px;
+position: absolute;
+width: 96px;
+height: 26px;
+text-align: left;
+font: normal normal bold 22px/34px Helvetica Neue;
+letter-spacing: 2.2px;
+color: #000000;
+opacity: 1;
+}
+
+.cntryText {
+    top: 770px;
+left: 254px;
+position: absolute;
+width: 350px;
+height: 50px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 2px solid #000000;
+opacity: 1;
+}
+
+.CCI {
+    top: 194px;
+left: 775px;
+position: absolute;
+width: 545px;
+height: 53px;
+text-align: left;
+font: normal normal normal 45px/71px Helvetica Neue;
+letter-spacing: 4.5px;
+color: #000000;
+opacity: 1;
+}
+
+.CN {
+    top: 320px;
+left: 775px;
+position: absolute;
+width: 328px;
+height: 26px;
+text-align: left;
+font: normal normal bold 22px/34px Helvetica Neue;
+letter-spacing: 2.2px;
+color: #000000;
+opacity: 1;
+}
+
+.CNText {
+    top: 380px;
+left: 775px;
+position: absolute;
+width: 350px;
+height: 50px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 2px solid #000000;
+opacity: 1;
+}
+
+.download {
+    top: 854px;
+left: 254px;
+position: absolute;
+width: 217px;
+height: 60px;
+background: transparent linear-gradient(90deg, #1FE1E9 0%, #5E33D1 34%, #D34848 65%, #FFB33F 100%) 0% 0% no-repeat padding-box;
+border-radius: 79px;
+opacity: 1;
+}
+
+.cardNumber {
+    top: 450px;
+left: 775px;
+position: absolute;
+width: 200px;
+height: 26px;
+text-align: left;
+font: normal normal bold 22px/34px Helvetica Neue;
+letter-spacing: 2.2px;
+color: #000000;
+opacity: 1;
+}
+
+.cardNumberText {
+    top: 510px;
+left:775px;
+position: absolute;
+width: 350px;
+height: 50px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 2px solid #000000;
+opacity: 1;
+}
+
+.EM {
+    top: 590px;
+left: 775px;
+position: absolute;
+width: 210px;
+height: 26px;
+text-align: left;
+font: normal normal bold 15px/25px Helvetica Neue;
+letter-spacing: 2.2px;
+color: #000000;
+opacity: 1;
+}
+
+.EMText {
+    top: 640px;
+left: 775px;
+position: absolute;
+width: 150px;
+height: 50px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 2px solid #000000;
+opacity: 1;
+}
+
+.EY {
+    top: 590px;
+left: 975px;
+position: absolute;
+width: 136px;
+height: 26px;
+text-align: left;
+font: normal normal bold 15px/25px Helvetica Neue;
+letter-spacing: 2.2px;
+color: #000000;
+opacity: 1;
+}
+
+.EYText {
+    top: 640px;
+left: 975px;
+position: absolute;
+width: 150px;
+height: 50px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 2px solid #000000;
+opacity: 1;
+}
+
+.CVV {
+    top: 710px;
+left: 775px;
+position: absolute;
+width: 39px;
+height: 26px;
+text-align: left;
+font: normal normal bold 22px/34px Helvetica Neue;
+letter-spacing: 2.2px;
+color: #000000;
+opacity: 1;
+}
+
+.CVVText {
+    top: 780px;
+left: 775px;
+position: absolute;
+width: 350px;
+height: 50px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 2px solid #000000;
+opacity: 1;
+}
+

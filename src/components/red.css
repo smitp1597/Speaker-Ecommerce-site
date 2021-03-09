@@ -1,0 +1,115 @@
+.red-container {
+    top: 1073px;
+left: 0px;
+width: 1350px;
+height: 680px;
+background: #D34848 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.speaker {
+    top: 860px;
+left: 887px;
+position: absolute;
+width: 254px;
+height: 297px;  
+box-shadow: 5px 40px 30px #9B2525;
+opacity: 1;
+}
+
+.try-btn {
+    top: 700px;
+    position: absolute;
+left: 1040px;
+width: 248px;
+height: 62px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 79px;
+opacity: 1;
+text-decoration: none;
+}
+
+.try-text{
+    margin-top: 20px;
+margin-left: 60px;
+width: 122px;
+height: 22px;
+text-align: left;
+font: normal normal bold 17px/23px Helvetica Neue;
+letter-spacing: 1.8px;
+color: #D1346E;
+opacity: 1;
+}
+
+.header {
+    top: 804px;
+left: 110px;
+position: absolute;
+width: 773px;
+height: 88px;
+text-align: left;
+font: normal normal bold 50px/90px Helvetica Neue;
+letter-spacing: 7.4px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.textt {
+    top: 950px;
+left: 110px;
+position: absolute;
+width: 679px;
+height: 121px;
+text-align: left;
+font: normal normal normal 35px/40px Helvetica Neue;
+letter-spacing: 5.1px;
+color: #0B0B0B;
+opacity: 1;
+}
+
+.clickk {
+    margin-top: 425px;
+left: 890px;
+position: absolute;
+width: 100px;
+height: 100px;
+border: 2px solid #FFFFFF;
+opacity: 1;
+border-radius:50%;
+}
+
+.click-txt {
+    margin-top: 30px;
+margin-left: 25px;
+width: 100px;
+height: 32px;
+text-align: left;
+font: normal normal bold 15px/20px Helvetica Neue;
+letter-spacing: 1.7px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.demo-btn {
+    top: 1145px;
+left: 110px;
+position: absolute;
+width: 338px;
+height: 81px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 79px;
+opacity: 1;
+}
+
+.demo-txt {
+    margin-top: 20px;
+margin-left: 95px;
+width: 138px;
+height: 27px;
+text-align: left;
+font: normal normal bold 20px/28px Helvetica Neue;
+letter-spacing: 2.3px;
+color: #D1346E;
+opacity: 1;
+}
+
